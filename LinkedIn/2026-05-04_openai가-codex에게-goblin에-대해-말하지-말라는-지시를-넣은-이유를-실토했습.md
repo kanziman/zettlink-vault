@@ -1,6 +1,6 @@
 ---
 url: https://www.linkedin.com/feed/update/urn:li:activity:7455745302273286145/
-title: "OpenAI가 Codex에게 "goblin에 대해 말하지 말라"는 지시를 넣은 이유를 실토했습니다. 저는 이"
+title: "OpenAI가 Codex에게 'goblin에 대해 말하지 말라'는 지시를 넣은 이유를 실토했습니다. 저는 이"
 channel: 정구봉
 upload_date: 2026-05-04
 duration: ""
