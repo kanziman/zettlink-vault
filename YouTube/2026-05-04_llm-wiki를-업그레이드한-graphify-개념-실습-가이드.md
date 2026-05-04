@@ -6,7 +6,7 @@ upload_date: 2026-04-13
 duration: 15:17
 date_saved: 2026-05-04
 content_source: subtitle_ko
-raw_path: /Users/zorba/AI/zettlink/vault/zettlink-vault/raw/YouTube/2026-05-04_llm-wiki를-업그레이드한-graphify-개념-실습-가이드.txt
+raw_path: raw/YouTube/2026-05-04_llm-wiki를-업그레이드한-graphify-개념-실습-가이드.txt
 tags: 
   - llm
   - rag
